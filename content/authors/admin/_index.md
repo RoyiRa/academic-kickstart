@@ -7,7 +7,7 @@ authors:
   - admin
 title:
 role: Computer Science PhD Student
-avatar_filename: img.jpeg
+avatar_filename: avatar.jpeg
 bio: ""
 <!-- interests:
   - NLP
