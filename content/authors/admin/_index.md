@@ -19,7 +19,7 @@ social:
     link: https://twitter.com/RoyiRassin
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=x09r-T8AAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?hl=en&user=YNarSkMAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/RoyiRa
@@ -33,7 +33,7 @@ education:
       year: ""
     - course: MSc in Computer Science
       institution: Bar Ilan University
-      year: ""
+      year: ""    
 email: ""
 user_groups:
   - Researchers
