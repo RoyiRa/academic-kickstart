@@ -16,25 +16,22 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/ravfogel
+    link: https://twitter.com/RoyiRassin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=x09r-T8AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/shauli-ravfogel
-  - link: https://www.linkedin.com/in/shauli-ravfogel-619712130
+    link: https://github.com/RoyiRa
+  - link: https://www.linkedin.com/in/royi-rassin-4b8085163/
     icon: linkedin
     icon_pack: fab
 education:
   courses:
+    - course: PhD in Computer Science (in-progress)
+      institution: Bar Ilan University
+      year: ""
     - course: MSc in Computer Science
-      institution: Bar Ilan University
-      year: ""
-    - course: BSc in Computer Science
-      institution: Bar Ilan University
-      year: ""
-    - course: BSc in Chemistry
       institution: Bar Ilan University
       year: ""
 email: ""
