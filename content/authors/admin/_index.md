@@ -14,7 +14,7 @@ interests:
   - Representaton Learning
   - Interpretability
 social:
-  - icon: envelope
+#  - icon: envelope
     icon_pack: fas
     link: "#contact"
   - icon: twitter
