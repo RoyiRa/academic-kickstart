@@ -9,10 +9,10 @@ title:
 role: Computer Science PhD Student
 avatar_filename: img.jpg
 bio: ""
-interests:
+<!-- interests:
   - NLP
   - Representation Learning
-  - Interpretability
+  - Interpretability -->
 social:
   - icon: twitter
     icon_pack: fab
