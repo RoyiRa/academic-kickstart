@@ -39,7 +39,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hey! I am a third year PhD student in the [Natural Language Processing Lab](https://biu-nlp.github.io/) at Bar-Ilan University, supervised by [prof. Yoav Goldberg](u.cs.biu.ac.il/~yogo/).
+Hey! I am a third year PhD student in the [Natural Language Processing Lab](https://biu-nlp.github.io/) at Bar-Ilan University, supervised by [prof. Yoav Goldberg](https://u.cs.biu.ac.il/~yogo/).
 
 I am interested in representation learning, analysis and interpretability of neural models, and the syntactic abilities of NNs. Specifically, I am interested in the way neural models learn distributed representations that encode structured information, in the way they utillize those representatons to solve tasks, and in our ability to control their content and map them back to interpretable concepts. 
 
