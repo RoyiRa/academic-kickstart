@@ -240,20 +240,20 @@ plugins_js  = []
 ############################
 ## Search
 ############################
-[search]
+#[search]
   # Search provider:
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+ # engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+  #[search.algolia]
+#    app_id = ""
+#    api_key = ""
+    #index_name = ""
+   # show_logo = false
 
 ############################
 ## Maps
