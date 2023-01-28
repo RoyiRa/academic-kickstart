@@ -11,7 +11,7 @@ avatar_filename: img_2.PNG
 bio: ""
 interests:
   - NLP
-  - Representaton Learning
+  - Representation Learning
   - Interpretability
 social:
   - icon: twitter
