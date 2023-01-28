@@ -14,9 +14,6 @@ interests:
   - Representaton Learning
   - Interpretability
 social:
-#  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ravfogel
