@@ -11,7 +11,7 @@ avatar_filename: avatar.jpeg
 bio: ""
 <!-- interests:
   - NLP
-  - Representation Learning
+  - LLMs? ??
   - Interpretability -->
 social:
   - icon: twitter
@@ -39,10 +39,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-<!-- Hey! I am a first year PhD student in the [Natural Language Processing Lab](https://biu-nlp.github.io/) at Bar-Ilan University, supervised by [prof. Yoav Goldberg](https://u.cs.biu.ac.il/~yogo/).
+Hello! I am a first year PhD student in the [Natural Language Processing Lab](https://biu-nlp.github.io/) at Bar-Ilan University, supervised by [prof. Yoav Goldberg](https://u.cs.biu.ac.il/~yogo/). In this space I get to share my passion for research and real-world applications in NLP and machine learning.
 
-I am interested in representation learning, analysis and interpretability of neural models, and the syntactic abilities of NNs. Specifically, I am interested in the way neural models learn distributed representations that encode structured information, in the way they utillize those representatons to solve tasks, and in our ability to control their content and map them back to interpretable concepts. 
+During my MSc, I was driven by my fascination with underspecified language. Why do models often misinterpret ambiguous language, and we don't? How can we make implicit information more explicit? My thesis work (under review) aimed to answer these questions in the context of verbal omissions in coordination structures and creating a dataset and task to resolve these omissions. As a fun detour, I stumbled upon intriguing behavior by DALL-E when fed with ambiguous language, where it depicts multiple interpretations in a single image, instead of settling on one. We ended up documenting this behavior in a short [paper](https://arxiv.org/abs/2210.10606).
 
-During my MSc, I have been studying the ability of NNs to acquire syntax without explicit supervision. During my PhD, I have been mainly working on developing techniques to selectively control the information encoded in neural representations, with some fun linguistic sidetours. 
-
-My CV is available [here](cv/cv.pdf). -->
+My CV is available [here](cv/cv.pdf).
