@@ -24,7 +24,7 @@ abstract: "Verbal omissions are complex syntactic phenomena in VP coordination s
 
 
 # Summary. An optional shortened abstract.
-summary: "We point out to surprising flaws in the way text2image models map words to visual concepts. For instance, we demonstrate a semantic leakage between different words in the prompt, and cases where words with multiple meanings are depicted with all their meanings at once."
+summary: "This work establishes a pragmatic framework for understanding verbal omissions in VP coordination structures, devises a scalable data collection method, and curates a large dataset with over 10,000 natural examples and crowd-sourced solutions. We show current neural baseline models demonstrate moderate success in resolving these omissions, with ample room for improvement."
 tags: []
 categories: []
 featured: false
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2210.10606"
+url_pdf: "https://arxiv.org/abs/2305.16740"
 url_code: "https://github.com/RoyiRa/conjunct-resolution-task"
 url_dataset:
 url_poster:
