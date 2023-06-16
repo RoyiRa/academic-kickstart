@@ -24,7 +24,7 @@ abstract: "We study the way DALLE-2 maps symbols (words) in the prompt to their 
 
 
 # Summary. An optional shortened abstract.
-summary: "We point out to surprising flaws in the way text2image models map words to visual concepts. For instance, we demonstrate a semantic leakage between different words in the prompt, and cases where words with multiple meanings are depicted with all their meanings at once."
+summary: "We point out two surprising flaws in the way text2image models map words to visual concepts. For instance, we demonstrate a semantic leakage between different words in the prompt, and cases where words with multiple meanings are depicted with all their meanings at once."
 tags: []
 categories: []
 featured: false
