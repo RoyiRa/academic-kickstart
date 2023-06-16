@@ -1,6 +1,5 @@
 ---
 # Documentation: Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment
-
 title: "Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment"
 authors: ["Royi Rassin", "Eran Hirsch", "Daniel Glickman", "Yoav Goldberg", "Gal Chechik"]
                
