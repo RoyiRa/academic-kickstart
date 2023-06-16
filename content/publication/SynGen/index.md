@@ -1,8 +1,8 @@
 ---
 # Documentation: Conjunct Resolution in The Face of Verbal Omissions
 
-title: "Conjunct Resolution in The Face of Verbal Omissions"
-authors: ["Royi Rassin", "Yoav Goldberg", "Reut Tsarfaty"]
+title: "Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment"
+authors: ["Royi Rassin", "Eran Hirsch", "Daniel Glickman", "Yoav Goldberg", "Gal Chechik"]
                
 date: 2022-12-01
 doi: ""
@@ -17,14 +17,14 @@ publishDate: 2022-01-03T15:16:19+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Conjunct Resolution in The Face of Verbal Omissions"
+publication: "Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment"
 publication_short: ""
 
-abstract: "Verbal omissions are complex syntactic phenomena in VP coordination structures. They occur when verbs and (some of) their arguments are omitted from subsequent clauses after being explicitly stated in an initial clause. Recovering these omitted elements is necessary for accurate interpretation of the sentence, and while humans easily and intuitively fill in the missing information, state-of-the-art models continue to struggle with this task. Previous work is limited to small-scale datasets, synthetic data creation methods, and to resolution methods in the dependency-graph level. In this work we propose a conjunct resolution task that operates directly on the text and makes use of a split-and-rephrase paradigm in order to recover the missing elements in the coordination structure. To this end, we first formulate a pragmatic framework of verbal omissions which describes the different types of omissions, and develop an automatic scalable collection method. Based on this method, we curate a large dataset, containing over 10K examples of naturally-occurring verbal omissions with crowd-sourced annotations of the resolved conjuncts. We train various neural baselines for this task, and show that while our best method obtains decent performance, it leaves ample space for improvement. We propose our dataset, metrics and models as a starting point for future research on this topic."
+abstract: "Text-conditioned image generation models often generate incorrect associations between entities and their visual attributes. This reflects an impaired mapping between linguistic binding of entities and modifiers in the prompt and visual binding of the corresponding elements in the generated image. As one notable example, a query like "a pink sunflower and a yellow flamingo" may incorrectly produce an image of a yellow sunflower and a pink flamingo. To remedy this issue, we propose SynGen, an approach which first syntactically analyses the prompt to identify entities and their modifiers, and then uses a novel loss function that encourages the cross-attention maps to agree with the linguistic binding reflected by the syntax. Specifically, we encourage large overlap between attention maps of entities and their modifiers, and small overlap with other entities and modifier words. The loss is optimized during inference, without retraining or fine-tuning the model. Human evaluation on three datasets, including one new and challenging set, demonstrate significant improvements of SynGen compared with current state of the art methods. This work highlights how making use of sentence structure during inference can efficiently and substantially improve the faithfulness of text-to-image generation."
 
 
 # Summary. An optional shortened abstract.
-summary: "This work establishes a pragmatic framework for understanding verbal omissions in VP coordination structures, devises a scalable data collection method, and curates a large dataset with over 10,000 natural examples and crowd-sourced solutions. We show current neural baseline models demonstrate moderate success in resolving these omissions, with ample room for improvement."
+summary: "We propose SynGen, an inference-time method which first syntactically analyses the prompt to identify entities and their modifiers, and then uses a novel loss function that encourages the cross-attention maps to agree with the linguistic binding reflected by the syntax."
 tags: []
 categories: []
 featured: false
@@ -37,9 +37,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2305.16740"
-url_code: "https://github.com/RoyiRa/conjunct-resolution-task"
-url_dataset:
+url_pdf: "https://arxiv.org/abs/2306.08877"
+url_code: "https://github.com/RoyiRa/Syntax-Guided-Generation/tree/master"
+url_demo: "https://huggingface.co/spaces/Royir/SynGena"
 url_poster:
 url_project:
 url_slides: ""
