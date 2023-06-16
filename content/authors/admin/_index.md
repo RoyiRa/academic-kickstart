@@ -9,10 +9,6 @@ title:
 role: Computer Science PhD Student
 avatar_filename: avatar.jpeg
 bio: ""
-<!-- interests:
-  - NLP
-  - LLMs? ??
-  - Interpretability -->
 social:
   - icon: twitter
     icon_pack: fab
