@@ -4,7 +4,7 @@
 title: "Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment"
 authors: ["Royi Rassin", "Eran Hirsch", "Daniel Glickman", "Yoav Goldberg", "Gal Chechik"]
                
-date: 2022-12-01
+date: 2023-06-15
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
