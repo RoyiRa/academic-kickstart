@@ -40,7 +40,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://arxiv.org/abs/2410.22592"
-url_code: "https://github.com/RoyiRa/Syntax-Guided-Generation/tree/master"
+url_code: "https://github.com/RoyiRa/GRADE-Quantifying-sample-diversity-in-text-to-image-models"
 url_dataset:
 url_poster:
 url_project: "https://royira.github.io/GRADE/"
