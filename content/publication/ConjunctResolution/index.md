@@ -4,7 +4,7 @@
 title: "Conjunct Resolution in The Face of Verbal Omissions"
 authors: ["Royi Rassin", "Yoav Goldberg", "Reut Tsarfaty"]
                
-date: 2022-12-01
+date: 2023-05-26
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: 2022-01-03T15:16:19+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Conjunct Resolution in The Face of Verbal Omissions"
+publication: "Association for Computational Linguistics (ACL 2023)"
 publication_short: ""
 
 abstract: "Verbal omissions are complex syntactic phenomena in VP coordination structures. They occur when verbs and (some of) their arguments are omitted from subsequent clauses after being explicitly stated in an initial clause. Recovering these omitted elements is necessary for accurate interpretation of the sentence, and while humans easily and intuitively fill in the missing information, state-of-the-art models continue to struggle with this task. Previous work is limited to small-scale datasets, synthetic data creation methods, and to resolution methods in the dependency-graph level. In this work we propose a conjunct resolution task that operates directly on the text and makes use of a split-and-rephrase paradigm in order to recover the missing elements in the coordination structure. To this end, we first formulate a pragmatic framework of verbal omissions which describes the different types of omissions, and develop an automatic scalable collection method. Based on this method, we curate a large dataset, containing over 10K examples of naturally-occurring verbal omissions with crowd-sourced annotations of the resolved conjuncts. We train various neural baselines for this task, and show that while our best method obtains decent performance, it leaves ample space for improvement. We propose our dataset, metrics and models as a starting point for future research on this topic."
