@@ -17,7 +17,7 @@ publishDate: 2022-01-03T15:16:19+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "DALLE-2 is Seeing Double: Flaws in Word-to-Concept Mapping in Text2Image Models"
+publication: "BlackboxNLP @ EMNLP 2022"
 publication_short: ""
 
 abstract: "We study the way DALLE-2 maps symbols (words) in the prompt to their references (entities or properties of entities in the generated image). We show that in stark contrast to the way human process language, DALLE-2 does not follow the constraint that each word has a single role in the interpretation, and sometimes re-use the same symbol for different purposes. We collect a set of stimuli that reflect the phenomenon: we show that DALLE-2 depicts both senses of nouns with multiple senses at once; and that a given word can modify the properties of two distinct entities in the image, or can be depicted as one object and also modify the properties of another object, creating a semantic leakage of properties between entities. Taken together, our study highlights the differences between DALLE-2 and human language processing and opens an avenue for future study on the inductive biases of text-to-image models."
