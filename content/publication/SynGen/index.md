@@ -17,7 +17,7 @@ publishDate: 2022-01-03T15:16:19+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment"
+publication: "Neural Information Processing Systems (NeurIPS 37)"
 publication_short: ""
 
 abstract: "Text-conditioned image generation models often generate incorrect associations between entities and their visual attributes. This reflects an impaired mapping between linguistic binding of entities and modifiers in the prompt and visual binding of the corresponding elements in the generated image. As one notable example, a query like 'a pink sunflower and a yellow flamingo' may incorrectly produce an image of a yellow sunflower and a pink flamingo. To remedy this issue, we propose SynGen, an approach which first syntactically analyses the prompt to identify entities and their modifiers, and then uses a novel loss function that encourages the cross-attention maps to agree with the linguistic binding reflected by the syntax. Specifically, we encourage large overlap between attention maps of entities and their modifiers, and small overlap with other entities and modifier words. The loss is optimized during inference, without retraining or fine-tuning the model. Human evaluation on three datasets, including one new and challenging set, demonstrate significant improvements of SynGen compared with current state of the art methods. This work highlights how making use of sentence structure during inference can efficiently and substantially improve the faithfulness of text-to-image generation."
@@ -40,10 +40,10 @@ featured: false
 
 url_pdf: "https://arxiv.org/abs/2306.08877"
 url_code: "https://github.com/RoyiRa/Syntax-Guided-Generation/tree/master"
-url_demo: "https://huggingface.co/spaces/Royir/SynGena"
+url_demo: "https://huggingface.co/spaces/Royir/SynGen"
 url_dataset:
 url_poster:
-url_project:
+url_project: "https://royira.github.io/SynGen/"
 url_slides: ""
 url_source:
 url_video: ""
